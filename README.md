@@ -1,4 +1,5 @@
 # 01tareaCambioclimatico
+![](https://www.un.org/sites/un2.un.org/files/2021/08/feeling-the-heat.jpg)
 
 # ¿Qué es el cambio climático?
 Según La [ONU](https://www.un.org/es/climatechange/what-is-climate-change) El cambio climático se refiere a los cambios a largo plazo de las temperaturas y los patrones climáticos. Estos cambios pueden ser naturales, por ejemplo, a través de las variaciones del ciclo solar. Pero desde el siglo XIX, las actividades humanas han sido el principal motor del cambio climático, debido principalmente a la quema de combustibles fósiles como el carbón, el petróleo y el gas.
@@ -8,7 +9,7 @@ Según La [ONU](https://www.un.org/es/climatechange/what-is-climate-change) El c
 **Causas**
 - Emisión de gases
     - Dióxido de carbono
-    - Metano
+    - Metano  
 **Consecuencias**
 1. sequías intensas
 2. escasez de agua
