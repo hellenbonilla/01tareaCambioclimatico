@@ -11,6 +11,7 @@ Según La [ONU](https://www.un.org/es/climatechange/what-is-climate-change) El c
 - Emisión de gases
     - Dióxido de carbono
     - Metano  
+
 **Consecuencias**  
 1. sequías intensas
 2. escasez de agua
